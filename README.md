@@ -16,8 +16,4 @@ and I'm a junior developer exploring this new journey the most that I can
 </div>
 
 
-### GitHub Activity
-
-![Snake animation](https://github.com/camilaloupes/camilaloupes/blob/output/github-contribution-grid-snake.svg)
-
 
