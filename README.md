@@ -8,4 +8,16 @@ and I'm a junior developer exploring this new journey the most that I can
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camilaloupes&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaloupes&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### Contact
+
+<div> 
+ <a href = "mailto:camila.lpessoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camila-pessoa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+### GitHub Activity
+
+![Snake animation](https://github.com/camilaloupes/camilaloupes/blob/output/github-contribution-grid-snake.svg)
+
 
